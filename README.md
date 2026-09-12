@@ -83,35 +83,12 @@ Para ejecutar el proyecto se necesita tener instalado:
 
 ## Cómo ejecutar el proyecto
 
-### 1. Clonar el repositorio
-
-Desde una terminal:
+Sigue estos pasos para ejecutar el proyecto:
 
 ```bash
 git clone https://github.com/roberto-viloria/Taller.git
-```
-
-### 2. Entrar a la carpeta del proyecto
-
-```bash
 cd Taller
-```
-
-### 3. Compilar el proyecto
-
-```bash
 dotnet build
-```
-
-Si la compilación es correcta, aparecerá el mensaje:
-
-```text
-Build succeeded.
-```
-
-### 4. Ejecutar el proyecto
-
-```bash
 dotnet run
 ```
 
